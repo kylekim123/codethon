@@ -1,0 +1,10 @@
+{
+  "item.examplemod.cobalt": "Cobalt",
+  "itemGroup.cobaltTab": "Cobalt",
+  "item.examplemod.refined_cobalt": "Refined Cobalt",
+  "block.examplemod.cobalt_block": "Cobalt Block",
+  "item.examplemod.cobalt_sword": "Cobalt Sword",
+  "item.examplemod.cobalt_pickaxe": "Cobalt Pickaxe",
+  "item.examplemod.cobalt_axe": "Cobalt Axe",
+  "item.examplemod.cobalt_shovel": "Cobalt Shovel"
+}

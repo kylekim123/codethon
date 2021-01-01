@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "examplemod:cobalt"
+  },
+  "result": "examplemod:refined_cobalt",
+  "experience": 300.0,
+  "cookingtime": 500
+}

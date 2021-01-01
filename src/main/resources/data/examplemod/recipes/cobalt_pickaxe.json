@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    " s ",
+    " s "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "examplemod:refined_cobalt"
+    },
+    "s":
+    {
+      "item": "minecraft:stick"
+
+    }
+  },
+  "result":
+  {
+    "item": "examplemod:cobalt_pickaxe",
+    "count": 1
+  }
+}

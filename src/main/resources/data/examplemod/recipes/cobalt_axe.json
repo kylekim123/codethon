@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " xx",
+    " sx",
+    " s "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "examplemod:refined_cobalt"
+    },
+    "s":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "examplemod:cobalt_axe",
+    "count": 1
+  }
+}
